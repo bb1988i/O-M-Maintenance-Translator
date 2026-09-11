@@ -1,0 +1,43 @@
+# Auto detect text files and normalize line endings to LF
+* text=auto
+
+# Kotlin
+*.kt text eol=lf
+*.kts text eol=lf
+
+# Java
+*.java text eol=lf
+
+# Gradle
+*.gradle text eol=lf
+gradle-wrapper.properties text eol=lf
+
+# XML
+*.xml text eol=lf
+
+# JSON
+*.json text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Shell
+*.sh text eol=lf
+
+# Binary files
+*.apk binary
+*.jar binary
+*.so binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mov binary
+*.mp4 binary
+*.mp3 binary
+*.gz binary
+*.zip binary
+*.7z binary
+*.ttf binary
+*.otf binary
