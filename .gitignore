@@ -1,0 +1,66 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.jks
+*.keystore
+
+# Android Studio
+.idea/
+.ideaDataSources/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+thumb
+thumbs.db
+*.log
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Signing files
+*.jks
+*.keystore
+
+# Proguard
+proguard/
+
+# Log Files
+*.log
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Freeline
+freeline.py
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.apk
+fastlane/screenshots
+fastlane/metadata
+
+# Version control
+.git/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build output
+out/
+*.o
+*.so
+
+# Kotlin
+*.kt.bak
