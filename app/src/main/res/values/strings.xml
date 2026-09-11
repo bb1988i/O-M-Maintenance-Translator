@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ترجمة أوامر التشغيل والصيانة</string>
+    <string name="search_hint">ابحث باللغة العربية...</string>
+    <string name="add_new_term">إضافة مصطلح جديد</string>
+    <string name="search">بحث</string>
+    <string name="arabic_term">المصطلح العربي</string>
+    <string name="english_term">المصطلح الإنجليزي</string>
+    <string name="description">الوصف</string>
+    <string name="add">إضافة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="copy">نسخ</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="error_empty_fields">يرجى ملء جميع الحقول</string>
+    <string name="term_added_success">تم إضافة المصطلح بنجاح</string>
+    <string name="term_deleted_success">تم حذف المصطلح بنجاح</string>
+    <string name="term_updated_success">تم تحديث المصطلح بنجاح</string>
+    <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
+    <string name="total_terms">إجمالي المصطلحات: %d</string>
+    <string name="category">التصنيف</string>
+    <string name="electrical">كهربائي</string>
+    <string name="plumbing">سباكة</string>
+    <string name="carpentry">نجارة</string>
+    <string name="general">عام</string>
+    <string name="mechanical">ميكانيكي</string>
+</resources>
